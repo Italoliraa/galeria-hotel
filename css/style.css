@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(185, 186, 213);
+}
+
+header{
+    background-color: rgb(210, 198, 198);
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.intercity{
+    column-count: 4;
+}
+.world{
+    column-count: 3;
+}
+.cruz{
+    column-count: 4;
+}
+.executive{
+    column-count: 4;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+footer{
+    height: 50px;
+    background-color: rgb(130, 130, 138);
+    padding: 15px;
+    text-align: center;
+}
+
